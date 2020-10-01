@@ -1,1 +1,1 @@
-# AngularJS-Implementations
+# Various Web Applications using AngularJS
